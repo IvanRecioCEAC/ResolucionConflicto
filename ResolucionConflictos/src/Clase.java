@@ -1,3 +1,3 @@
 public class Clase {
-	public String paramPrueba= "";
+	public String paramPrueba= "Rama RamaTrabajoPruebas1";
 }
