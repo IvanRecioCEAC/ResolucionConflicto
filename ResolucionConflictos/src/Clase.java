@@ -5,4 +5,5 @@ public class Clase {
 	
 	public String pepe = "Hola";
 	
+	int numero = 9;
 }
